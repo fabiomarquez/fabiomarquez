@@ -12,8 +12,23 @@ Hi! My name is Fábio Marquez de Carvalho Júnior (_Fábio Júnior for short_) a
 
 You can check what I'm writing on my [blog](), where I talk about the data engineering space and another things like BI, life, the universe and everything else.  
 
+## **My Skills:**
 
-🌱 I’m currently learning **AWS**  
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+ ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ 
+
+
+🌱 I’m currently learning ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
 
 📚 I'm currently reading [**Fundamentals of Data Engineering**](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302) by Joe Reis  
 
