@@ -12,6 +12,10 @@ Hi! My name is Fábio Marquez de Carvalho Júnior (_Fábio Júnior for short_) a
 
 You can check what I'm writing on my [blog](), where I talk about the data engineering space and another things like BI, life, the universe and everything else.  
 
+🌱 I’m currently learning ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
+
+📚 I'm currently reading [**Fundamentals of Data Engineering**](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302) by Joe Reis
+
 ## **My Skills:**
 
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -25,10 +29,5 @@ You can check what I'm writing on my [blog](), where I talk about the data engin
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
- 
-
-
-🌱 I’m currently learning ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
-
-📚 I'm currently reading [**Fundamentals of Data Engineering**](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302) by Joe Reis  
+  
 
