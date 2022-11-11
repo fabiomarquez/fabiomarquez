@@ -19,7 +19,7 @@ You can check what I'm writing on my [blog](), where I talk about the data engin
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
