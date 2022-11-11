@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/fabio-marquez///)](https://www.linkedin.com/in/https://www.linkedin.com/in/fabio-marquez//)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=fabiomarquezc@gmail.com)](fabiomarquezc@gmail.com)
+[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://fabiomarquez.github.io/)](https://fabiomarquez.github.io/)
+
 Hi! My name is Fábio Marquez de Carvalho Júnior (_Fábio Júnior for short_) and nowadays I'm working as a **Data Engineer**. I love helping people with what I know how to do and I'm always trying to learn new things. This is the space where I center everything I've been studying and doing.   
 
 
