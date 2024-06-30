@@ -14,8 +14,6 @@ You can check what I'm writing on my [blog](), where I talk about the data engin
 
 🌱 I’m currently learning ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
 
-📚 I'm currently reading [**Fundamentals of Data Engineering**](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302) by Joe Reis
-
 ## **My Skills:**
 
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
